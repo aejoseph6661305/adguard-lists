@@ -1,0 +1,11 @@
+@@||windowsupdate.com^
+@@||update.microsoft.com^
+@@||download.windowsupdate.com^
+@@||microsoft.com^
+@@||office.com^
+@@||office365.com^
+@@||office.net^
+@@||live.com^
+@@||login.live.com^
+@@||msftconnecttest.com^
+@@||msftncsi.com^
