@@ -1,0 +1,7 @@
+@@||apple.com^
+@@||icloud.com^
+@@||itunes.apple.com^
+@@||mzstatic.com^
+@@||apple-dns.net^
+@@||push.apple.com^
+@@||cdn-apple.com^
