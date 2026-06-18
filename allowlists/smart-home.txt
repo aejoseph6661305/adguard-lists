@@ -8,3 +8,8 @@
 @@||meethue.com^
 @@||tuyaus.com^
 @@||tuyaeu.com^
+@||googleapis.com^
+@@||gstatic.com^
+@@||apple.com^
+@@||icloud.com^
+@@||push.apple.com^
