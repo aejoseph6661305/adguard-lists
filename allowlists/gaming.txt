@@ -1,0 +1,12 @@
+@@||playstation.com^
+@@||playstation.net^
+@@||sonyentertainmentnetwork.com^
+@@||xboxlive.com^
+@@||xboxservices.com^
+@@||steamcommunity.com^
+@@||steampowered.com^
+@@||steamstatic.com^
+@@||epicgames.com^
+@@||ea.com^
+@@||battle.net^
+@@||riotgames.com^
