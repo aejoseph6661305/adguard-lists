@@ -1,0 +1,10 @@
+@@||ring.com^
+@@||amazonaws.com^
+@@||googlecast.com^
+@@||cast.google.com^
+@@||home-assistant.io^
+@@||nabucasa.com^
+@@||sonos.com^
+@@||meethue.com^
+@@||tuyaus.com^
+@@||tuyaeu.com^
