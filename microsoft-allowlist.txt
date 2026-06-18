@@ -5,7 +5,14 @@
 @@||office.com^
 @@||office365.com^
 @@||office.net^
+@@||officecdn.microsoft.com^
 @@||live.com^
 @@||login.live.com^
 @@||msftconnecttest.com^
 @@||msftncsi.com^
+@@||visualstudio.com^
+@@||azureedge.net^
+@@||windows.com^
+@@||bing.com^
+@@||xboxlive.com^
+@@||xbox.com^
