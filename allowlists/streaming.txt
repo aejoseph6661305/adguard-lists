@@ -1,0 +1,9 @@
+@||netflix.com^
+@@||nflxvideo.net^
+@@||hulu.com^
+@@||disneyplus.com^
+@@||max.com^
+@@||paramountplus.com^
+@@||plex.tv^
+@@||plex.direct^
+@@||jellyfin.org^
